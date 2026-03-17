@@ -11,7 +11,7 @@
 - Nguyen Tam Long - Computer Engineering - HCMUT
 - Truong Bao Thien AN - Information Technology - HCMUS
 
-**Advisor:** [Advisor Name]
+**Advisor:** Vo Tuan Binh
 
 **Note:**
 - Our repository (will be made fully public after paper acceptance):https://github.com/long89kev/LoRa-Energy-Aware-UAVs
